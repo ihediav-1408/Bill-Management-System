@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 from tkinter import *
 
 root=Tk()
@@ -139,22 +133,3 @@ btn_total=Button(f1,bd=5,fg="black",bg="yellow",font=("ariel",16,"bold"),width=1
 btn_total.grid(row=8,column=1)
 
 root.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
